@@ -126,6 +126,4 @@ extracted from the ad text.
 XGBoost · LightGBM · CatBoost · Stacking (RF + XGB + LGBM + CatBoost → Ridge) · ANN · Hybrid RF + ANN.
 
 **Limitations:** asking prices, not sale prices; Colombo area only; no floor level, age or amenities.
-
-**AI declaration:** Code for this project and dashboard was partially generated with Claude (Anthropic).
 """)
